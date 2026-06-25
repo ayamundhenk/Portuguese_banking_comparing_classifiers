@@ -23,4 +23,4 @@ Logistic Regression achieved the best balance between performance and interpreta
 - README.md
 
 ## Notebook
-[Link to Notebook](notebook.ipynb)
+[Link to Notebook](prompt_III.ipynb)
