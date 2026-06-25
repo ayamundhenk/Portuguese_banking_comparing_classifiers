@@ -18,7 +18,7 @@ Logistic Regression achieved the best balance between performance and interpreta
 - Targeted outreach can reduce marketing costs.
 
 ## Repository Contents
-- notebook.ipynb
+- prompt_III.ipynb
 - data/
 - README.md
 
